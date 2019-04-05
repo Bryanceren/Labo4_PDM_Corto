@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pelicudex</string>
+    <string name="movie_name_string">movie</string>
+    <string name="movie_title_string">Titulo</string>
+    <string name="rate_ex_string">Rating</string>
+    <string name="lorem_30_string">qwd</string>
+    <string name="runtime_ex_string">TIempo</string>
+</resources>
